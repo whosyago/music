@@ -1,4 +1,4 @@
-<h1>Recriação interface da NETFLIX, porém com uma junção ao SPOTIFY 🎶</h1>
+<h1>Recriação da interface da NETFLIX, porém com uma junção ao SPOTIFY 🎶</h1>
 
 
 
